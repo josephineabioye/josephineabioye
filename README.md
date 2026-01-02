@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Josephine 👋
 
-<!--
-**josephineabioye/josephineabioye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science postgraduate with a strong interest in cloud computing, backend engineering, and DevOps.  
+💡 Currently building hands-on projects using Linux, AWS, Python, Docker, and CI/CD tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+- Linux (Ubuntu)
+- Python
+- AWS (EC2, VPC, IAM, S3 – learning)
+- Docker (learning)
+- Git & GitHub
+- Networking fundamentals
+
+---
+ 📂 Featured Repositories
+📘 Learning Journal – daily notes and technical reflections  
+☁️ Cloud Projects – hands-on cloud and backend projects  
+🔧 Scripts & Tools – automation and helper scripts  
+🌐 Portfolio Site – selected work and case studies
+
+---
+
+🚀 Current Focus
+- Cloud architecture fundamentals
+- Backend API development
+- Containerization
+- Building a consistent GitHub contribution habit
+
+---
+
+🤝 Let’s Connect
+- LinkedIn:www.linkedin.com/in/josephine-adeola-abioye-a3936813a  
