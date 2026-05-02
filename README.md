@@ -1,16 +1,16 @@
 # Hi, I'm Josephine 👋
 
-🎓 Computer Science postgraduate with a strong interest in cloud computing, backend engineering, and DevOps.  
+🎓 Computer Science msc Student.  
 💡 Currently building hands-on projects.
 
 ---
+## Tools & technologies
 
-🔧 Technologies & Tools
-- Linux (Ubuntu)
-- Python
-- AWS (EC2, VPC, IAM, S3 – learning)
-- Docker (learning)
-- Git & GitHub
-- Networking fundamentals
+**Data:** SQL · Microsoft Excel · Power BI · Python (pandas)
+**Languages:** Python · JavaScript · Java · PHP · SQL · HTML · CSS 
+**Web & front-end:** HTML · CSS · JavaScript · PHP · Storybook 
 
+## Connect
 
+🔗 [LinkedIn](https://linkedin.com/in/josephine-abioye)  
+📧 josephineabioye@yahoo.com
