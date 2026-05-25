@@ -6,9 +6,9 @@
 ---
 ## Tools & technologies
 
-**Data: SQL · Microsoft Excel · Power BI · Python (pandas)
-**Languages: Python · JavaScript · Java · PHP · SQL · HTML · CSS 
-**Web & front-end: HTML · CSS · JavaScript · PHP · Storybook 
+#**Data**: SQL · Microsoft Excel · Power BI · Python (pandas)
+#**Languages**: Python · JavaScript · Java · PHP · SQL · HTML · CSS 
+#**Web & front-end**: HTML · CSS · JavaScript · PHP · Storybook 
 
 ## Connect
 
