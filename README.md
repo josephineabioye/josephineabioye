@@ -1,7 +1,6 @@
 # Hi, I'm Josephine 👋
 
-🎓 Computer Science msc Student.  
-💡 Currently building hands-on projects.
+Founder and Product Lead at Mercéa Skincare
 
 ---
 ## Tools & technologies
